@@ -1,1 +1,1 @@
-sample file created for traing repo.
+this is new file sample file created for traing repo.
